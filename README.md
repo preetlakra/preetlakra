@@ -1,6 +1,6 @@
 # Hello! 👋👋
 
-I am Preet Lakra. I'm a **Full Stack Developer. 👨‍💻** I'm highly skilled with **JavaScript/ C++ / Python.** 💻. <br>
+I am Preet Lakra. I'm a **Full Stack Engineer. 👨‍💻** I'm highly skilled with **JavaScript/ C++ / Python.** 💻. <br>
 Always seeking modern tools to enhance developers' and end-users' experiences.
 <hr>
 
@@ -29,26 +29,29 @@ MySQL, Firebase, Supabase, MangoDB.
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="50" height="50"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="tailwind" width="50" height="50"/> </a>
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>
-  <a href="https://firebase.google.com/docs" target="_blank"> <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" alt="firebase" width="50" height="50"/> </a>
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="60" height="50"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
+  <a href="https://firebase.google.com/docs" target="_blank"> <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" alt="firebase" width="50" height="50"/> </a>
+  <a href="https://supabase.com/docs/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="firebase" width="50" height="50"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://repvue.imgix.net/a9yxc48y3ay5dm2udzwizc2bdyph?auto=format&fit=max&w=384&q=100" alt="mongodb" width="50" height="50"/> </a>
 </p>
 
-### 🎊 Few of my awesome projects:
+<!-- ### 🎊 Few of my awesome projects:
 - ClipTrail - Clipboard app for Mac [(link)](https://cliptrail.sibi.me/)
 - Snackalytics - Chrome extension to analyse and give metrics on order history from food delivery apps [(link)](https://snackalytics.sibi.me/)
 - Tamil Wordle - The popular word game in the Tamil language [(link)](https://tamil-wordle.netlify.app/)
 - React app to test your typing speed [(link)](https://typingtest.netlify.app/)
-- Windows application built with Electron to securely share files [(link)](https://github.com/sibi-sharanyan/Secure-File-Share/tree/master/dist)
+- Windows application built with Electron to securely share files [(link)](https://github.com/sibi-sharanyan/Secure-File-Share/tree/master/dist) -->
 
 ### 📫 How to reach me?
 
-- [LinkedIn](https://www.linkedin.com/in/sibi-sharanyan/)
-- [Twitter](https://twitter.com/sibi_sharanyan)
 
-<img src="https://i.postimg.cc/ZnVLZmjB/tweet-1598874958113165314-20221228152023-via-10015-io.jpg" width="570" height="400" />
 
+
+
+
+<a href="https://www.linkedin.com/in/preetlakra/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" width="30" height="30"/> </a> <br>
+<a href="https://twitter.com/notbeamn/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="twitter" width="30" height="30"/> </a>
 
 
 
