@@ -1,10 +1,9 @@
-### Hi there 👋
-
-<!--
-**preetlakra/preetlakra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi there 👋
 
 - 🔭 I’m currently working on an idea.
-- 🌱 I’m currently learning React.
+- 🧑‍💻 Learning React.
 - ⚡ Fun fact: Can print 'Hello World!'.
+
+
+📫 How to reach me?
+<a src="https://linkedin.com/in/preetlakra/"><p>LinkedIn<p/><a/>
