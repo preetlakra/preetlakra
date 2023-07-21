@@ -1,4 +1,4 @@
-# Hello! 👋👋
+# Hey there!👋
 
 I am Preet Lakra. I'm a **Full Stack Engineer. 👨‍💻** I'm highly skilled with **JavaScript/ C++ / Python.** 💻. <br>
 Always seeking modern tools to enhance developers' and end-users' experiences.
