@@ -1,7 +1,7 @@
 # Hey there!👋
 
 I am Preet Lakra. I'm a **Full Stack Engineer. 👨‍💻** I'm highly skilled with **JavaScript/ C++ / Python.** 💻. <br>
-Always seeking modern tools to enhance developers' and end-users' experiences.
+Always seeking modern tools to enhance developers' and end-users experiences.
 <hr>
 
 ### 👨‍💻 Technologies:
@@ -12,7 +12,7 @@ Always seeking modern tools to enhance developers' and end-users' experiences.
 
 #### Framework
 
-- Next.js, TailwindCSS, Bootstrap.
+- Next.js, React.js, TailwindCSS, Bootstrap.
 
 #### Web-Stack
 
