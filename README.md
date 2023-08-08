@@ -1,7 +1,7 @@
 # Hey there!👋
 
 I am Preet Lakra. **Full Stack Developer. 👨‍💻** I'm highly skilled with **JavaScript/ C++ / Python.** 💻. <br>
-Always seeking modern tools to enhance developers' and end-user experiences.
+Always seeking modern tools to enhance developers' and end-user experiences. Can print("Hello World!") 
 <hr>
 
 ### 👨‍💻 Technologies:
