@@ -1,6 +1,6 @@
 # Hey there!👋
 
-i am Preet Lakra. **full_Stack_Developer. 👨‍💻**
+i am Preet Lakra. **full_Stack_Developer. 👨‍💻**  <br>
 always seeking modern tools to enhance developers' and end-user experiences. <br> can print("Hello World!"). <br> learning...
 <hr>
 
