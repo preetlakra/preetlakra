@@ -1,26 +1,26 @@
 # Hey there!👋
 
-I am Preet Lakra. **Full Stack Developer. 👨‍💻** I'm highly skilled with **JavaScript/ C++ / Python.** 💻. <br>
-Always seeking modern tools to enhance developers' and end-user experiences. Can print("Hello World!") 
+i am Preet Lakra. **full_Stack_Developer. 👨‍💻** <br>
+always seeking modern tools to enhance developers' and end-user experiences. can print("Hello World!"). learning...
 <hr>
 
 ### 👨‍💻 Technologies:
 
 #### Programming Languages
 
-- Javascript, Python, C++, Java.
+-> Javascript, Python, C++, Java.
 
 #### Framework
 
-- Next.js, React.js, TailwindCSS, Bootstrap.
+-> Next.js, React.js, TailwindCSS, Bootstrap.
 
-#### Web-Stack
+#### Web 
 
-- MongoDB, Express.js, React.js, Node.js.
+-> MongoDB, Express.js, React.js, Node.js.
 
 #### <h4>Database
 
-- MySQL, Firebase, Supabase, MangoDB.
+-> MySQL, Firebase, Supabase, MangoDB.
 
 <hr>
 
