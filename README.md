@@ -8,7 +8,7 @@ Always seeking modern tools to enhance developers' and end-user experiences. Can
 
 #### Programming Languages
 
-- Javascript, Python, C++.
+- Javascript, Python, C++, Java.
 
 #### Framework
 
