@@ -8,19 +8,19 @@ always seeking modern tools to enhance end-user experiences. <br> can print("Hel
 
 #### Programming Languages
 
--> Javascript, Python, C++, Java.
+- Javascript, Python, C++, Java.
 
 #### Framework
 
--> Next.js, React.js, TailwindCSS, Bootstrap.
+- Next.js, React.js, TailwindCSS, Bootstrap.
 
 #### Web 
 
--> MongoDB, Express.js, React.js, Node.js.
+- MongoDB, Express.js, React.js, Node.js.
 
 #### <h4>Database
 
--> MySQL, Firebase, Supabase, MangoDB.
+- MySQL, Firebase, Supabase, MangoDB.
 
 <hr>
 
