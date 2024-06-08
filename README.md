@@ -1,7 +1,8 @@
 # Hey there!👋
 
-i am Preet Lakra. **full_Stack_Developer. 👨‍💻**  <br>
-always seeking modern tools to enhance end-user experiences. <br> can print ("Hello World!"). <br> learning...
+I'm Preet Lakra. ** Software Developer👨‍💻**  <br>
+always seeking modern tools to enhance end-user experiences.
+learning...
 <hr>
 
 ### 👨‍💻 Technologies:
