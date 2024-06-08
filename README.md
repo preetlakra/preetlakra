@@ -1,6 +1,6 @@
 # Hey there!👋
 
-I'm Preet Lakra. ** Software Developer👨‍💻**  <br>
+I'm Preet Lakra. **Software Developer👨‍💻**  <br>
 always seeking modern tools to enhance end-user experiences.
 learning...
 <hr>
