@@ -6,8 +6,6 @@ Always seeking modern tools to enhance end-user experiences.
 
 ### 👨‍💻 Technologies:
 
-<hr>
-
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="50" height="50"/>
   </a>
@@ -36,6 +34,7 @@ Always seeking modern tools to enhance end-user experiences.
 ## 📫 How to reach me?
 
 <a href="https://www.linkedin.com/in/preetlakra/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" width="30" height="30"/> </a> 
+
 <a href="https://twitter.com/notbeamn/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="twitter" width="30" height="30"/> </a>
 
 
