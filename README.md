@@ -6,22 +6,6 @@ Always seeking modern tools to enhance end-user experiences.
 
 ### 👨‍💻 Technologies:
 
-#### Programming Languages
-
-- Javascript, Python, C++, Java.
-
-#### Framework
-
-- Next.js, React.js, TailwindCSS, Bootstrap.
-
-#### Web 
-
-- MongoDB, Express.js, React.js, Node.js.
-
-#### <h4>Database
-
-- MySQL, Firebase, Supabase, MangoDB.
-
 <hr>
 
 <p align="left">
